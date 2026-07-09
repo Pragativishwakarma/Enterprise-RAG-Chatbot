@@ -1,4 +1,4 @@
-# 🚀 Enterprise RAG Chatbot
+#  Enterprise RAG Chatbot
 
 An Enterprise-grade **Retrieval-Augmented Generation (RAG)** chatbot built using **Python**, **LangChain**, and **Large Language Models (LLMs)**. The application enables users to ask natural language questions over custom documents by combining semantic search with AI-powered response generation.
 
