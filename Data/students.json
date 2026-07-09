@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Ali",
+        "course": "AI",
+        "marks": 92
+    },
+    {
+        "id": 2,
+        "name": "Sara",
+        "course": "Python",
+        "marks": 88
+    },
+    {
+        "id": 3,
+        "name": "Zayn",
+        "course": "AI",
+        "marks": 95
+    },
+    {
+        "id": 4,
+        "name": "Fatima",
+        "course": "AI",
+        "marks": 90
+    },
+    {
+        "id": 5,
+        "name": "John",
+        "course": "Python",
+        "marks": 85
+    },
+    {
+        "id": 6,
+        "name": "Ayesha",
+        "course": "AI",
+        "marks": 97
+    },
+    {
+        "id": 7,
+        "name": "Bilal",
+        "course": "Web Development",
+        "marks": 89
+    }
+]
